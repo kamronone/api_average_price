@@ -1,6 +1,6 @@
 import requests
 
-url = "http://185.76.14.197:8080/property_price_percent"
+url = "http://<host>:<port>/property_price_percent"
 
 
 data = {
